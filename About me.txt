@@ -1,1 +1,4 @@
-My name is chidinma Joy Moses and I am doing the switch to software testing. Afetr 8 years as a healthcare project manager, I decided to switch to tech.
+My name is chidinma Joy Moses and I am doing the switch to software testing. Afetr 8 years as a healthcare project manager,
+ I decided to switch to tech.
+
+I am making new changes to this file.
